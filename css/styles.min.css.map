@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,CAAC,CAAC,AAAA,MAAM,CAAC,CAAC,AAAA,OAAO,AAAC,CACf,MAAM,CAAE,GAAG,CACX,OAAO,CAAE,GAAG,CAAG,AACnB,AAAA,EAAE,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE,AAAC,CACX,MAAM,CAAE,GAAG,CACX,OAAO,CAAE,GAAG,CAAG,AACnB,AAAA,EAAE,AAAC,CACC,UAAU,CAAE,IAAI,CAChB,OAAO,CAAE,IAAI,CAAG",
+    "sources": [
+        "../sass/styles.sass",
+        "../sass/blocks/_todo.sass"
+    ],
+    "names": [],
+    "file": "styles.min.css"
+}
